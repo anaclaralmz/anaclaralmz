@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ana Clara Zaidan 👋
+<h3>I’m a Software Engineering student, currently learning C#. </h3>
+
 
 <!--
 **anaclaralmz/anaclaralmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
